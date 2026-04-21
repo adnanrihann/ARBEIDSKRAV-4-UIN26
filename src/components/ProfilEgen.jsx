@@ -1,5 +1,5 @@
 import './ProfilEgen.css';
-import adnanicon from './assets/Adnanicon.svg'
+import adnanicon from '../assets/Adnanicon.svg'
 
 export default function ProfilEgen() {
   return (
@@ -10,7 +10,7 @@ export default function ProfilEgen() {
       <h2>Adnan Rihan</h2>
       <p>Studie: Bachelorstudium i informatikk - design og utvikling av IT-systemer</p>
       <p>
-        E-post: <a href="mailto:adnanor@hiof.no">adnanor@hiof.no</a>
+        Ta kontakt: <a href="mailto:adnanor@hiof.no">adnanor@hiof.no</a>
       </p>
     </article>
   );
