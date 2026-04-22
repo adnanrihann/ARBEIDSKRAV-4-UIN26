@@ -7,7 +7,7 @@ export default function ProfilFake() {
       <figure>
         <img src={fakeIcon} alt="Fake profilbilde" />
       </figure>
-      <h2>Fiktiv Student</h2>
+      <h2>Fake Student</h2>
       <p>Studie: Bachelor i Informasjonssystemer</p>
       <p>
         E-post: <a href="mailto:fakestudent@hiof.no">fakestudent@hiof.no</a>

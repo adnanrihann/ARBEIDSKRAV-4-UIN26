@@ -7,7 +7,6 @@
 .main-header {
   text-align: center;
   padding: 20px;
-
   border-bottom: 2px solid #ffffff;
   margin-bottom: 20px;
 }
@@ -21,6 +20,7 @@
 
 .arbeidskrav-section {
   margin-top: 50px;
+  color: #060606;
   padding: 20px;
 }
 
